@@ -3,3 +3,6 @@
 *.py[cod]
 .env
 .ipynb_checkpoints/
+# Local datasets and generated outputs
+notebooks/data/
+notebooks/portfolio_outputs/
